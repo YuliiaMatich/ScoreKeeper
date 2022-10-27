@@ -3,7 +3,7 @@
 Small Ping Pong Score Keeper app built with HTML, Bulma and JavaScript.
 
 ## Final Product
-!["Screenshot"]()
+!["Screenshot"](https://github.com/YuliiaMatich/ScoreKeeper/blob/master/Screenshot.png)
 
 
 ## Launch
